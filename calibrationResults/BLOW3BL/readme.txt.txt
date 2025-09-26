@@ -1,0 +1,1 @@
+The MyPacking application needs to be run (see folder networkGeneration) and the generated files need to be moved here in order to run the calibration script.
